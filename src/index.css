@@ -1,0 +1,16 @@
+@import url('https://fonts.cdnfonts.com/css/satoshi');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Satoshi', sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 500;
+}
+  body {
+    background-color: rgb(30 41 59);
+    background-image: url("https://www.transparenttextures.com/patterns/60-lines.png");   
+  }
+ 
